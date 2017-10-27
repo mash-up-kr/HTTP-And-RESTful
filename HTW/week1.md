@@ -1,4 +1,4 @@
-<h3>ch1. HTTP 개관</h3>
+<h3>Chapter1. HTTP 개관</h3>
 
 chapter 1.1 HTTP
 
@@ -51,7 +51,7 @@ chapter 1.6.2 IP주소 그리고 포트 번호
 
 - IP(Internet protocol) 주소와 포트번호를 사용해 클라이언트와 서버 사이에 TCP/IP 커넥션을 맺어야한다.
 
-<h3>ch2. URL과 리소스</h3>
+<h3>Chapter2. URL과 리소스</h3>
 
 chapter 2.2 URL 문법
 
